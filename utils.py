@@ -11,7 +11,7 @@ def save_predictions(predictions: pd.DataFrame, output_path: str):
     
     predictions = predictions.copy()
     cols_to_drop = predictions.columns
-    predictions['purchases'] = predictions.apply(lambda row: str([ str(row[column]) for column in df.columns]), axis=1)
+    predictions['purchases'] = predictions.apply(lambda row: str([ str(row[column]) for column in predictions.columns]), axis=1)
     predictions = predictions.drop(columns=cols_to_drop)
     predictions.to_csv(output_path,index_label='user_id')
     print(f"Saved to csv in '{output_path}'.")
