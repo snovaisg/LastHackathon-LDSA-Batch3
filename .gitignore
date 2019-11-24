@@ -3,4 +3,3 @@ train_reviews.csv
 *checkpoint.py
 *checkpoint.csv
 *.log
-*.csv
