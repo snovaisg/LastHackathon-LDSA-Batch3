@@ -1,0 +1,22 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/jupyterlab
+[LabApp | INFO] JupyterLab application directory is /Library/Frameworks/Python.framework/Versions/3.7/share/jupyter/lab
+[LabApp | INFO] Serving notebooks from local directory: /Users/simaonovais/Documents/GitHub/LastHackathon-LDSA-Batch3
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8890/?token=4ae3ad1f40c11e493b763e96bdd50877549846086c5d123d
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/simaonovais/Library/Jupyter/runtime/nbserver-59931-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=4ae3ad1f40c11e493b763e96bdd50877549846086c5d123d
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | WARNING] 404 GET /api/contents/batch3-workspace/S05%20-%20Recommender%20Systems?1574585153366 (::1): No such file or directory: batch3-workspace/S05 - Recommender Systems
+[LabApp | WARNING] No such file or directory: batch3-workspace/S05 - Recommender Systems
+[LabApp | WARNING] 404 GET /api/contents/batch3-workspace/S05%20-%20Recommender%20Systems?1574585153366 (::1) 4.82ms referer=http://localhost:8890/lab
+[LabApp | WARNING] 404 GET /api/contents/batch3-students/S05%20-%20Recommender%20Systems/BLU12%20-%20Workflow/BLU12%20-%20Learning%20Notebook%20-%20Part%201%20of%202%20-%20Workflow.ipynb?content=0&1574585153369 (::1): No such file or directory: batch3-students/S05 - Recommender Systems/BLU12 - Workflow/BLU12 - Learning Notebook - Part 1 of 2 - Workflow.ipynb
+[LabApp | WARNING] No such file or directory: batch3-students/S05 - Recommender Systems/BLU12 - Workflow/BLU12 - Learning Notebook - Part 1 of 2 - Workflow.ipynb
+[LabApp | WARNING] 404 GET /api/contents/batch3-students/S05%20-%20Recommender%20Systems/BLU12%20-%20Workflow/BLU12%20-%20Learning%20Notebook%20-%20Part%201%20of%202%20-%20Workflow.ipynb?content=0&1574585153369 (::1) 2.98ms referer=http://localhost:8890/lab
